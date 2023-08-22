@@ -1,8 +1,7 @@
+import './App.css';
 import { useEffect,useState } from 'react';
 import CardList from './components/card-list/CardList';
 import SearchBox from './components/search-box/SearchBox';
-
-import './App.css';
 
 
 const App = ()=>{
